@@ -1,4 +1,4 @@
-# Sales-Dataset-Analysis
+# Sales-Dataset-Analysis using Python
 
 ## Introduction
 This repository contains a sales dataset analysis of a retail outlet in the U.S. I analysed this data using python libraries; pandas, numpy, matplotlib and seaborn in a jupyter notebook. I also created an html slide deck of my findings.
